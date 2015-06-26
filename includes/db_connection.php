@@ -1,7 +1,7 @@
 <?php
   define("DB_SERVER", "127.0.0.1");
   define("DB_USER", "widget_cms");
-  define("DB_PASS", "fulkar");
+  define("DB_PASS", "tidal");
   define("DB_NAME", "widget_corp");
   // 1. Create a database connection
 
